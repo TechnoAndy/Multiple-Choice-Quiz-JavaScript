@@ -5,7 +5,7 @@ This is a JavaScript-based multiple-choice quiz. In this quiz, users will be pre
 ![Quiz](Quiz.png)
 ## Features
 
-- User is given three questions.
+- The user is given three questions.
 - A time limit to answer.
 - Progress bar.
 - Score tracking.
@@ -13,7 +13,7 @@ This is a JavaScript-based multiple-choice quiz. In this quiz, users will be pre
 ## How to Play
 
 - Select the correct answer and move to the next question
-- Don't answer withing 10 seconds and move to the next question
+- Don't answer within 10 seconds and move to the next question
 - *Score is displayed at the end
 
 ## Installation
@@ -22,6 +22,10 @@ This is a JavaScript-based multiple-choice quiz. In this quiz, users will be pre
 
    ```bash
    git clone https://github.com/TechnoAndy/Multiple-Choice-Quiz-JavaScript
+
+## Acknowledgments
+
+- Code Explained for the amazing video tutorials, check out the videos here https://www.youtube.com/@CodeExplained. 
 
 
 
